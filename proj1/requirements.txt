@@ -1,0 +1,15 @@
+
+Tools & APIs
+[] JUnit 4
+[] log4j
+Functionality
+Presentation
+An Employee...
+
+[] can upload an image of his/her receipt as part of the reimbursement request
+[] can view their information
+[] can update their information
+A Manager...
+
+[] can view images of the receipts from reimbursement requests
+[] can view all resolved requests from all employees and see which manager resolved it
